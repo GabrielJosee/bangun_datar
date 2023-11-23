@@ -14,5 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![download](https://github.com/GabrielJosee/bangun_datar/assets/145422492/1262309a-426a-466f-ad79-1a84e1e4fff9)
+![Menu](https://github.com/GabrielJosee/bangun_datar/assets/145422492/39aa0380-9166-4a03-9bf8-127e721ab949)
+![lingkaran](https://github.com/GabrielJosee/bangun_datar/assets/145422492/1b906fb7-0db2-451c-943f-83b8087b030d)
+![segitiga](https://github.com/GabrielJosee/bangun_datar/assets/145422492/35765012-6d72-4b05-a446-fbb4546a216f)
+![Persegi](https://github.com/GabrielJosee/bangun_datar/assets/145422492/0ee823aa-d525-4ecd-a610-56c7884b0d25)
+![Persegi Panjang](https://github.com/GabrielJosee/bangun_datar/assets/145422492/ea57e349-9b7e-407f-89a3-630dfdf183b8)
+
 
